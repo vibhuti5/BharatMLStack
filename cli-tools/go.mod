@@ -13,7 +13,7 @@ require (
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
-	go.etcd.io/etcd/api/v3 v3.5.17 // indirect
+	go.etcd.io/etcd/api/v3 v3.5.17 // idirect
 	go.etcd.io/etcd/client/pkg/v3 v3.5.17 // indirect
 	go.etcd.io/etcd/client/v3 v3.5.17 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
